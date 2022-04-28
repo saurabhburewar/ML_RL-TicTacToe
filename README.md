@@ -35,3 +35,6 @@ Run the 'human vs computer' code block in the notebook
 ```
 Run the 'human vs human' code block in the notebook
 ```
+
+## Report
+Full report available [here](https://github.com/saurabhburewar/ML_RL-TicTacToe/blob/main/AAI%20project%20-%20Report.pdf)
