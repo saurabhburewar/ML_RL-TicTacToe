@@ -1,3 +1,5 @@
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saurabhburewar/ML_RL-TicTacToe/blob/main/tic_tac_toe_AAI.ipynb)
+
 # ML_RL-TicTacToe
 A game of tic-tac-toe with a RL agent.
 
